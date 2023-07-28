@@ -1,2 +1,2 @@
-# Excel Sales Analytics Project
-Created Business Reports Using Pivot Table &amp; Power Pivot.  
+# Excel: Sales Analytics Project
+Created Business Reports Using Pivot Table & Power Pivot.  
