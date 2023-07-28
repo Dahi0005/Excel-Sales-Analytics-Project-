@@ -47,9 +47,9 @@
 <!-- CONTACT -->
 ## For More Information Contact:
 
-Hargun Dahiya - [ Linkedin ](https://www.linkedin.com/in/hargundahiya08/) 
+Hargun Dahiya - [👉  Connect with me on Linkedin ](https://www.linkedin.com/in/hargundahiya08/) 
 
 Email - Hargundahiya@gmail.com
 
-Project Link - [https://github.com/Dahi0005/Excel-Sales_Analytics-Project-](https://github.com/Dahi0005/Excel-Sales_Analytics-Project-)
+Project Link - [https://github.com/Dahi0005/Excel-Sales_Analytics-Project-](https://github.com/Dahi0005/Excel-Sales-Analytics-Project-)
 
