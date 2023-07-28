@@ -44,4 +44,12 @@
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
 
+<!-- CONTACT -->
+## For More Information Contact:
+
+Hargun Dahiya - [ Linkedin ](https://www.linkedin.com/in/hargundahiya08/) 
+
+Email - Hargundahiya@gmail.com
+
+Project Link - [https://github.com/Dahi0005/Excel-Sales_Analytics-Project-](https://github.com/Dahi0005/Excel-Sales_Analytics-Project-)
 
